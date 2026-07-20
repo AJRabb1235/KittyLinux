@@ -1,4 +1,4 @@
-# ![Kitty Linux Logo](Kitty.png) Kitty Linux
+# ![Kitty Linux Logo](Copilot_20260720_053342.png) Kitty Linux
 ### The Purr-fect Lightweight Operating System 🐾
 
 Welcome to the official home of **Kitty Linux**! Built on a lightning-fast, ultra-minimalist kernel architecture paired with a customizable, responsive interface layout.
